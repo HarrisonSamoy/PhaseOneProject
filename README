@@ -1,0 +1,52 @@
+Author: Harrison Samoy
+Updated: 10/29/2020
+--------------------------
+About The Project:
+This is a webstite made using HTML, CSS, JavaScript, and Bootstrap. It consists of multiple tabs. They are as follows:
+
+    - Home: demonstrates a simple page with a Bootstrap carousel that contains stock images from Google.
+    - About: demonstrates another simple page using CSS and the Bootstrap Container to place elements in an interesting way.
+    - Blog: demonstrates a more complex webpage that includes even more Bootstrap elements.
+    - Contact: demonstrates my ability to create a validation form checked with JavaScript.
+
+The CSS page is a little all over the place, but it works. I would consider reorganizing it if the website were to get more complex.
+
+The Project Process:
+First off, I completed the blog before uploading it to github. Therefore, the steps of my progress were not logged on Git/GitHub. 
+So I will list them off as best I can now.
+
+1) Laying out the navbar:
+    - I wanted to create the navbar first because it would be uniform throughout all pages, and I thought this would be a good place
+    to start. I stated with a bootstrap navbar and modified it slightly to make it work with the specifications of the project.
+
+2) The contact page:
+    - I then wanted to work on the part of the project which I thought would be the most challenging... the validation form. I found
+    a Bootstrap example of a validation form and, once again, modified it to work for a "Contact Me" page. I faced a few challenges
+    involving the layout and fixed it with a bit of CSS. After the form was looking good, I still thought the page looked boring. I
+    added a picture, again messing with the container, to make the page look more appealing (I changed the image which was a picture
+    of me originally because I did not want to have pictures of me on GitHub).
+
+3) The blog page:
+    - The next most complicated page was the blog page, on which I thouroughly enjoyed working. It is a simple page with a few articles
+    on it (things that I actually enjoy doing). I messed around with CSS fonts here and really tried to make the page look nice. Taking
+    much inspiration off of a Bootstrap example.
+
+4) The about me page:
+    - I did not know what to put on this page, as I did not want that much information about me on GitHub. So I added a few facts and 
+    hobbies of mine to the page. It looks very simple, but then again the page is supposed to be about me, and I am quite simple.
+
+5) The home page:
+    - Again, I was not sure what to put here. I found a Bootstrap example and ended up using that as the basis for mt homepage. I
+    thought, after adding all that was in the example, that the page was still lacking. So I added a Bootstrap carousel to spice it up.
+    It was a little finicky to work with; however, I managed to get the images appearing correctly using some of the Bootstrap classes
+    (img-fluid) and some CSS. Altogether it was a great learning experience on how to use more complex bootstrap classes.
+
+6) Messing around:
+    - After finishing the basics on all pages, I went back and messed around a bit with some CSS to make the pages look cleaner.
+
+7) In Summary:
+    - I am pleased with what I have created, especially since it was the first website that I have made. It was a great
+    learning experience. Unfortunately, you (hopefully) had to read all of this instead of reading the branch logs. I will make sure
+    I fully utilize version control next time as I would imagine that it is better than having to write it all out as I just did...
+
+*** Please Read All The Way Through... THANK YOU ***
