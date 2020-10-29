@@ -1,0 +1,84 @@
+.error {
+    color: rgb(194, 39, 39)
+}
+
+.container {
+    padding: 10px
+}
+
+.visible {
+    background-color: red;
+}
+
+.pad {
+    padding: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("C:/VSCFiles/Phase-One-Project/images/codingBackground.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tint {
+    background-color: rgba(219, 0, 0, 0.363);
+    background-blend-mode: multiply;
+}
+
+  .flex-equal > * {
+    -ms-flex: 1;
+    flex: 1;
+  }
+  @media (min-width: 768px) {
+    .flex-md-equal > * {
+      -ms-flex: 1;
+      flex: 1;
+    }
+  }
+  
+  .overflow-hidden { overflow: hidden; }
+
+  .bg-green {
+      background-color: rgb(140, 214, 214);
+  }
+  .bg-blue {
+      background-color: rgb(96, 143, 173);
+  }
+  .bg-purple {
+    background-color: rgb(76, 119, 148);
+  }
+  .bg-yellow {
+    background-color: rgb(101, 189, 189);
+  }
+
+  /*
+ * Cover
+ */
+.cover {
+    padding: 0 1.5rem;
+  }
+  .cover .btn-lg {
+    padding: .75rem 1.25rem;
+    font-weight: 700;
+  }
+
+  .carousel-inner > .carousel-item > img{
+    height:360px;
+  }
+
+
+  #carouselId {
+    background-color: rgba(211, 211, 211, 0.692);
+    background-blend-mode: overlay;
+  }
